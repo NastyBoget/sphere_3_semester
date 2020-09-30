@@ -35,7 +35,7 @@ def main():
     # Take the same decision trees and run it on the test data
     prediction = forest.predict(test_data[0::, 1::])
 
-    print classification_report(test_data[0::, 0], prediction)
+    print(classification_report(test_data[0::, 0], prediction))
 
 
 def visualize_data(total_data, train_size, test_size):
