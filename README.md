@@ -16,6 +16,17 @@
 
 2. Ансамбли. Бустинг.
 
+	* [The elements of statistical learning](https://web.stanford.edu/~hastie/ElemStatLearn/printings/ESLII_print12.pdf)
+	* [Pattern Recognition and Machine Learning](http://users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20And%20Machine%20Learning%20-%20Springer%20%202006.pdf)
+	* [AdaBoost](http://www.face-rec.org/algorithms/Boosting-Ensemble/decision-theoretic_generalization.pdf)
+	* [Gradient Boosting](http://statweb.stanford.edu/~jhf/ftp/trebst.pdf)
+	* [Stochastic Gradient Boosting](https://statweb.stanford.edu/~jhf/ftp/stobst.pdf)
+	* [Визуализация бустинга](http://arogozhnikov.github.io/2016/06/24/gradient_boosting_explained.html)
+	* [Лекция Trevor Hastie про градиентный бустинг](https://www.youtube.com/watch?v=wPqtzj5VZus)
+	* [Initialized Gradient Boosted Regression Trees](http://proceedings.mlr.press/v14/mohan11a/mohan11a.pdf)
+	* [BagBoo](http://download.yandex.ru/company/a_scalable_hybrid_bagging_the_boosting_model.pdf)
+	* [Лекция про градиентный бустинг в открытом курсе по машинному обучению](https://habrahabr.ru/company/ods/blog/327250/)
+
 3. Ансамбли. Регуляризация структуры деревьев. XGBoost.
 
 4. Ансамбли. Современные модели. Библиотеки LightGbm и CatBoost.
